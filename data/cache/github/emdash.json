@@ -3,7 +3,7 @@
   "slug": "emdash",
   "repoUrl": "https://github.com/generalaction/emdash",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:15:53.244Z",
+  "lastSuccessAt": "2026-09-29T17:19:11.179Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:13:15.234Z",
@@ -14,18 +14,23 @@
       "at": "2026-09-29T13:15:53.244Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:19:11.179Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.",
   "github": {
     "repository": {
       "full_name": "generalaction/emdash",
-      "stargazers_count": 5875,
-      "forks_count": 614,
+      "stargazers_count": 5879,
+      "forks_count": 615,
       "open_issues_count": 94,
       "language": "TypeScript",
       "pushed_at": "2026-09-29T03:00:49Z",
-      "updated_at": "2026-09-29T11:28:38Z",
+      "updated_at": "2026-09-29T17:12:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -58,7 +63,7 @@
     "latestReleaseAt": "2026-09-27T09:29:15Z",
     "homepage": "https://emdash.com",
     "sync": {
-      "syncedAt": "2026-09-29T13:15:53.244Z",
+      "syncedAt": "2026-09-29T17:19:11.179Z",
       "source": "api"
     }
   },

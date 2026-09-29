@@ -3,13 +3,8 @@
   "slug": "taskuary",
   "repoUrl": "https://github.com/ldbumble/taskuary",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:21:59.322Z",
+  "lastSuccessAt": "2026-09-29T17:24:37.347Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:03:43.211Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:13:13.200Z",
       "source": "candidates",
@@ -29,6 +24,11 @@
       "at": "2026-09-29T13:21:59.322Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:24:37.347Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
@@ -37,10 +37,10 @@
       "full_name": "ldbumble/taskuary",
       "stargazers_count": 128,
       "forks_count": 35,
-      "open_issues_count": 16,
+      "open_issues_count": 14,
       "language": "Python",
-      "pushed_at": "2026-09-29T12:59:44Z",
-      "updated_at": "2026-09-29T12:59:52Z",
+      "pushed_at": "2026-09-29T16:58:06Z",
+      "updated_at": "2026-09-29T16:59:03Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -74,7 +74,7 @@
     "latestReleaseAt": "2026-09-29T02:52:59Z",
     "homepage": "https://taskuary.com",
     "sync": {
-      "syncedAt": "2026-09-29T13:21:59.322Z",
+      "syncedAt": "2026-09-29T17:24:37.347Z",
       "source": "api"
     }
   },

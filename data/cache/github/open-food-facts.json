@@ -3,13 +3,8 @@
   "slug": "open-food-facts",
   "repoUrl": "https://github.com/openfoodfacts/smooth-app",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:19:35.910Z",
+  "lastSuccessAt": "2026-09-29T17:22:24.897Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:02:57.094Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:11:56.366Z",
       "source": "candidates",
@@ -27,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:19:35.910Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:22:24.897Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -217,7 +217,7 @@
       "contributorsKnown": 116
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:19:35.910Z",
+      "syncedAt": "2026-09-29T17:22:24.897Z",
       "source": "api"
     },
     "languages": {

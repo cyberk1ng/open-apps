@@ -3,13 +3,8 @@
   "slug": "mhabit",
   "repoUrl": "https://github.com/FriesI23/mhabit",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:18:54.385Z",
+  "lastSuccessAt": "2026-09-29T17:21:49.728Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:02:37.016Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:11:30.058Z",
       "source": "candidates",
@@ -29,6 +24,11 @@
       "at": "2026-09-29T13:18:54.385Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:21:49.728Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
@@ -39,16 +39,16 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:18:54.385Z",
+      "syncedAt": "2026-09-29T17:21:49.728Z",
       "source": "api"
     },
     "repository": {
       "full_name": "FriesI23/mhabit",
       "stargazers_count": 1616,
       "forks_count": 100,
-      "open_issues_count": 79,
+      "open_issues_count": 80,
       "language": "Dart",
-      "pushed_at": "2026-09-29T12:24:40Z",
+      "pushed_at": "2026-09-29T13:23:57Z",
       "updated_at": "2026-09-29T12:24:18Z",
       "archived": false,
       "disabled": false,

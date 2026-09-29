@@ -3,7 +3,7 @@
   "slug": "openmausbot",
   "repoUrl": "https://github.com/milind-soni/OpenMausBot",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:19:52.416Z",
+  "lastSuccessAt": "2026-09-29T17:22:40.091Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:05.126Z",
@@ -24,18 +24,23 @@
       "at": "2026-09-29T13:19:52.416Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:22:40.091Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
   "github": {
     "repository": {
       "full_name": "milind-soni/OpenMausBot",
-      "stargazers_count": 3661,
+      "stargazers_count": 3669,
       "forks_count": 633,
-      "open_issues_count": 328,
+      "open_issues_count": 334,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T13:19:17Z",
-      "updated_at": "2026-09-29T13:16:52Z",
+      "pushed_at": "2026-09-29T17:21:42Z",
+      "updated_at": "2026-09-29T17:21:08Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +53,7 @@
     "latestReleaseAt": "2026-09-29T09:27:57Z",
     "homepage": "https://www.openmausbot.com/",
     "sync": {
-      "syncedAt": "2026-09-29T13:19:52.416Z",
+      "syncedAt": "2026-09-29T17:22:40.091Z",
       "source": "api"
     }
   },

@@ -3,13 +3,8 @@
   "slug": "ish",
   "repoUrl": "https://github.com/ish-app/ish",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:17:21.529Z",
+  "lastSuccessAt": "2026-09-29T17:20:28.833Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:01:58.547Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:10:38.798Z",
       "source": "candidates",
@@ -27,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:17:21.529Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:20:28.833Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -177,7 +177,7 @@
       "subscribers_count": 578
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:17:21.529Z",
+      "syncedAt": "2026-09-29T17:20:28.833Z",
       "source": "api"
     },
     "languages": {

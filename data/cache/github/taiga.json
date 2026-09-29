@@ -3,7 +3,7 @@
   "slug": "taiga",
   "repoUrl": "https://github.com/taigaio/taiga-back",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:21:56.490Z",
+  "lastSuccessAt": "2026-09-29T17:24:34.743Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:18:35.665Z",
@@ -12,6 +12,11 @@
     },
     {
       "at": "2026-09-29T13:21:56.490Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:24:34.743Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -35,7 +40,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:21:56.490Z",
+      "syncedAt": "2026-09-29T17:24:34.743Z",
       "source": "api"
     }
   },

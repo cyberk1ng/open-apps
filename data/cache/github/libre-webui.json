@@ -3,7 +3,7 @@
   "slug": "libre-webui",
   "repoUrl": "https://github.com/libre-webui/libre-webui",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:17:57.173Z",
+  "lastSuccessAt": "2026-09-29T17:21:01.255Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:54.463Z",
@@ -22,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:17:57.173Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:21:01.255Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -69,7 +74,7 @@
     "latestReleaseAt": "2026-09-26T12:16:22Z",
     "homepage": "https://librewebui.org",
     "sync": {
-      "syncedAt": "2026-09-29T13:17:57.173Z",
+      "syncedAt": "2026-09-29T17:21:01.255Z",
       "source": "api"
     }
   },

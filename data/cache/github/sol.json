@@ -3,7 +3,7 @@
   "slug": "sol",
   "repoUrl": "https://github.com/ospfranco/sol",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:21:19.543Z",
+  "lastSuccessAt": "2026-09-29T17:23:58.822Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:37:08.122Z",
@@ -17,6 +17,11 @@
     },
     {
       "at": "2026-09-29T13:21:19.543Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:23:58.822Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -52,7 +57,7 @@
     },
     "latestReleaseAt": "2026-09-20T01:18:48Z",
     "sync": {
-      "syncedAt": "2026-09-29T13:21:19.543Z",
+      "syncedAt": "2026-09-29T17:23:58.822Z",
       "source": "api"
     }
   },

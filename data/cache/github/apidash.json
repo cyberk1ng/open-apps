@@ -3,13 +3,8 @@
   "slug": "apidash",
   "repoUrl": "https://github.com/foss42/apidash",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:14:09.656Z",
+  "lastSuccessAt": "2026-09-29T17:17:41.476Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:00:30.321Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:08:51.037Z",
       "source": "candidates",
@@ -29,6 +24,11 @@
       "at": "2026-09-29T13:14:09.656Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:17:41.476Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",
@@ -36,7 +36,7 @@
     "repository": {
       "full_name": "foss42/apidash",
       "stargazers_count": 2915,
-      "forks_count": 1008,
+      "forks_count": 1007,
       "open_issues_count": 208,
       "language": "Dart",
       "pushed_at": "2026-09-21T20:21:34Z",
@@ -73,7 +73,7 @@
     "latestReleaseAt": "2023-11-29T12:07:18Z",
     "homepage": "https://apidash.dev",
     "sync": {
-      "syncedAt": "2026-09-29T13:14:09.656Z",
+      "syncedAt": "2026-09-29T17:17:41.476Z",
       "source": "api"
     }
   },

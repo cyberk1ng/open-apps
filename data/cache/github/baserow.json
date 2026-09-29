@@ -3,7 +3,7 @@
   "slug": "baserow",
   "repoUrl": "https://github.com/baserow/baserow",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:14:35.589Z",
+  "lastSuccessAt": "2026-09-29T17:18:03.490Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:12:07.775Z",
@@ -12,6 +12,11 @@
     },
     {
       "at": "2026-09-29T13:14:35.589Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:18:03.490Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -24,8 +29,8 @@
       "forks_count": 743,
       "open_issues_count": 1227,
       "language": "Python",
-      "pushed_at": "2026-09-29T13:12:18Z",
-      "updated_at": "2026-09-29T13:12:41Z",
+      "pushed_at": "2026-09-29T16:50:46Z",
+      "updated_at": "2026-09-29T16:50:56Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",
@@ -55,7 +60,7 @@
     "latestReleaseAt": "2026-09-15T15:38:09Z",
     "homepage": "https://baserow.io",
     "sync": {
-      "syncedAt": "2026-09-29T13:14:35.589Z",
+      "syncedAt": "2026-09-29T17:18:03.490Z",
       "source": "api"
     }
   },

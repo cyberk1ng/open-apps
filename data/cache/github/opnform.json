@@ -3,7 +3,7 @@
   "slug": "opnform",
   "repoUrl": "https://github.com/OpnForm/OpnForm",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:20:15.537Z",
+  "lastSuccessAt": "2026-09-29T17:23:00.428Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:17:06.476Z",
@@ -12,6 +12,11 @@
     },
     {
       "at": "2026-09-29T13:20:15.537Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:23:00.428Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -46,7 +51,7 @@
     "latestReleaseAt": "2026-09-02T11:57:35Z",
     "homepage": "https://opnform.com",
     "sync": {
-      "syncedAt": "2026-09-29T13:20:15.537Z",
+      "syncedAt": "2026-09-29T17:23:00.428Z",
       "source": "api"
     }
   },

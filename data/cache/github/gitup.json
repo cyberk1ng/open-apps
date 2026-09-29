@@ -3,13 +3,8 @@
   "slug": "gitup",
   "repoUrl": "https://github.com/git-up/GitUp",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:16:37.027Z",
+  "lastSuccessAt": "2026-09-29T17:19:49.762Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:01:37.616Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:10:12.806Z",
       "source": "candidates",
@@ -27,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:16:37.027Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:19:49.762Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -203,7 +203,7 @@
       "contributorsKnown": 62
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:16:37.027Z",
+      "syncedAt": "2026-09-29T17:19:49.762Z",
       "source": "api"
     },
     "languages": {

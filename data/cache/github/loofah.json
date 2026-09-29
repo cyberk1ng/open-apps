@@ -3,13 +3,8 @@
   "slug": "loofah",
   "repoUrl": "https://github.com/bart6114/loofah",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:18:18.526Z",
+  "lastSuccessAt": "2026-09-29T17:21:18.576Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:02:14.665Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:11:04.613Z",
       "source": "candidates",
@@ -29,6 +24,11 @@
       "at": "2026-09-29T13:18:18.526Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:21:18.576Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Free, open-source Markdown knowledge vault for macOS. Record and transcribe meetings locally, keep notes as files you can carry across tools, and give agents read-only MCP access. No accounts, subscriptions, telemetry, or cloud backend.",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:18:18.526Z",
+      "syncedAt": "2026-09-29T17:21:18.576Z",
       "source": "api"
     },
     "repository": {

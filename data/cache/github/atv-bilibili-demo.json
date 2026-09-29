@@ -3,13 +3,8 @@
   "slug": "atv-bilibili-demo",
   "repoUrl": "https://github.com/yichengchen/ATV-Bilibili-demo",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:14:25.778Z",
+  "lastSuccessAt": "2026-09-29T17:17:54.989Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:00:36.374Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:08:57.946Z",
       "source": "candidates",
@@ -27,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:14:25.778Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:17:54.989Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -181,7 +181,7 @@
       "contributorsKnown": 35
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:14:25.778Z",
+      "syncedAt": "2026-09-29T17:17:54.989Z",
       "source": "api"
     },
     "languages": {

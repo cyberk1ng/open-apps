@@ -3,13 +3,8 @@
   "slug": "marketmonk",
   "repoUrl": "https://github.com/brandonp2412/MarketMonk",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:18:27.645Z",
+  "lastSuccessAt": "2026-09-29T17:21:26.181Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:02:21.693Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:11:11.968Z",
       "source": "candidates",
@@ -29,6 +24,11 @@
       "at": "2026-09-29T13:18:27.645Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:21:26.181Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
   "sourceDescription": "Cross-platform stock and portfolio tracker with Yahoo Finance charts and customizable dashboards. Built with Flutter.",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:18:27.645Z",
+      "syncedAt": "2026-09-29T17:21:26.181Z",
       "source": "api"
     },
     "repository": {

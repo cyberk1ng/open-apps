@@ -3,13 +3,8 @@
   "slug": "thunderbird-ios",
   "repoUrl": "https://github.com/thunderbird/thunderbird-ios",
   "source": "api",
-  "lastSuccessAt": "2026-09-29T13:22:05.330Z",
+  "lastSuccessAt": "2026-09-29T17:24:42.839Z",
   "partialFailures": [
-    {
-      "at": "2026-09-27T09:03:45.263Z",
-      "source": "candidates",
-      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
-    },
     {
       "at": "2026-09-28T17:13:15.630Z",
       "source": "candidates",
@@ -27,6 +22,11 @@
     },
     {
       "at": "2026-09-29T13:22:05.330Z",
+      "source": "candidates",
+      "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
+    },
+    {
+      "at": "2026-09-29T17:24:42.839Z",
       "source": "candidates",
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
@@ -203,7 +203,7 @@
       "contributorsKnown": 13
     },
     "sync": {
-      "syncedAt": "2026-09-29T13:22:05.330Z",
+      "syncedAt": "2026-09-29T17:24:42.839Z",
       "source": "api"
     },
     "languages": {
